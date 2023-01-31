@@ -1,0 +1,14 @@
+export const password = 'abcd1234';
+export const username = 'imperas';
+export const firstName = 'Marius';
+export const lastName = 'Marelio';
+export const phone = '861350822';
+export const email = 'marius@takas.lt';
+export const wrongValue = 'sowrong';
+export const oneChar = 's';
+export const twoDigits = '12';
+export const longText = 'veryLongTextveryLongTextveryLon';
+export const countryIndex = ['Croatia', 'Angola', 'Poland'];
+export const hamburgerIndex = ['hamburger-menu-home', 'hamburger-menu-about', 'hamburger-menu-blog', 'hamburger-menu-contact'];
+export const rolesIndex = ['profession-developer', 'profession-analyst', 'profession-tester', 'profession-writer'];
+export const rolesConfirmationMessages = ['Software Developer is selected!', 'Business Analystic is selected!', 'QA Test Engineer is selected!', 'Technical Writer is selected!'];
